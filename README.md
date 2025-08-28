@@ -1,1 +1,1 @@
-# afk-bot
+# afk-bot-discord
