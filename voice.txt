@@ -1,0 +1,9 @@
+past your token here
+past your token here
+past your token here
+past your token here
+past your token here
+past your token here
+past your token here
+after then save the file ( ctrl + s )
+run the file from cmd (py main.py)
